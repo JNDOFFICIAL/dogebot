@@ -1,5 +1,5 @@
-# Link DOGEClickBot Telegram
-Hargai Refferal : https://t.me/Dogecoin_click_bot?start=SMYk
+# Hargai Refferal : 
+https://t.me/Dogecoin_click_bot?start=SMYk
 
 # Cara Install 
 $ apt update && pkg upgrade<br>
